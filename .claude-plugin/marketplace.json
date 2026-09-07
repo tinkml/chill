@@ -1,0 +1,21 @@
+{
+  "name": "tinkml",
+  "owner": {
+    "name": "Nikita Tishchenko"
+  },
+  "description": "Plugins by Nikita Tishchenko",
+  "plugins": [
+    {
+      "name": "chill",
+      "source": "./",
+      "description": "Human-centered skills that keep you oriented during long agentic workflows — reduce the Human-Agent State Gap",
+      "category": "engineering",
+      "keywords": [
+        "human-centered",
+        "workflow",
+        "clarity",
+        "agentic"
+      ]
+    }
+  ]
+}

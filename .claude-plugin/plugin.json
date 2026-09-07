@@ -1,0 +1,17 @@
+{
+  "name": "chill",
+  "version": "0.0.1",
+  "description": "Human-centered skills that keep you oriented during long agentic workflows — reduce the Human-Agent State Gap",
+  "author": {
+    "name": "Nikita Tishchenko"
+  },
+  "homepage": "https://github.com/tinkml/chill",
+  "repository": "https://github.com/tinkml/chill",
+  "license": "MIT",
+  "keywords": [
+    "human-centered",
+    "workflow",
+    "clarity",
+    "agentic"
+  ]
+}
