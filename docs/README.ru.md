@@ -1,4 +1,4 @@
-[English](./README.md) | [Русский](./README.ru.md)
+[English](../README.md) | [Русский](README.ru.md)
 
 # Chill
 
@@ -26,7 +26,7 @@ Chill уменьшает этот разрыв не за счёт дополни
 
 **Спокойствие через ясность.**
 
-Полная философия продукта — в [CONCEPT.ru.md](./CONCEPT.ru.md).
+Полная философия продукта — в [CONCEPT.ru.md](CONCEPT.ru.md).
 
 ## Установка
 
@@ -37,4 +37,4 @@ Chill уменьшает этот разрыв не за счёт дополни
 
 ## Лицензия
 
-[MIT](./LICENSE)
+[MIT](../LICENSE)

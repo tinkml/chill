@@ -1,4 +1,4 @@
-[English](./CONCEPT.md) | [Русский](./CONCEPT.ru.md)
+[English](CONCEPT.md) | [Русский](CONCEPT.ru.md)
 
 # Chill — Project Concept
 
