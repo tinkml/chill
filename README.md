@@ -1,4 +1,8 @@
-[English](./README.md) | [Русский](./README.ru.md)
+<p>
+  <img alt="Skills" src="./docs/static/chill-readme-hero-banner.jpg">
+</p>
+
+[English](./README.md) | [Русский](./docs/README.ru.md)
 
 # Chill
 
@@ -26,7 +30,7 @@ Chill closes this gap not by adding more control over the agent, but through cla
 
 **Calm through clarity.**
 
-Read the full product philosophy in [CONCEPT.md](./CONCEPT.md).
+Read the full product philosophy in [CONCEPT.md](docs/CONCEPT.md).
 
 ## Installation
 
